@@ -1,15 +1,18 @@
-<center>
-<h1>Hi, i'm Thales! 👋</h1>
+<h1 align="center">Hi, i'm Thales! 👋</h1>
 
-[<img src="https://i.imgur.com/jKkITPV.png">](https://twitter.com/mbthales_/)
-[<img src="https://i.imgur.com/oZdpc13.png">](https://stackoverflow.com/users/11621887/thales-maia)
-</center>
+<p align="center">
+  <img src="https://i.imgur.com/AJXLlCj.png" href="https://twitter.com/mbthales_/"/>
+  <img src="https://i.imgur.com/DdUwpfU.png" href="https://stackoverflow.com/users/11621887/thales-maia">
+  <img src="https://i.imgur.com/Lqgkvwr.png" href="https://www.linkedin.com/in/mbthales/">
+</p>
 
-<h2>I'm Computer Science student and a front-end developer focused in performance and acessibility.</h3>
+<p>I'm Computer Science student and a front-end developer focused in performance and acessibility.</p>
 
 <br/>
 
-- 📮 How contact me: mbthales10@gmail.com 
+- 🏠 Currently living in Rio de Janeiro, Brazil.
+- 💬 Let's talk about front-end. 
+- 📮 How to reach me: mbthales10@gmail.com
 
 <br/>
 
