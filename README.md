@@ -1,9 +1,15 @@
 <h1 align="center">Hi, i'm Thales! 👋</h1>
 
-<p align="center">
-  <img src="https://i.imgur.com/AJXLlCj.png" href="https://twitter.com/mbthales_/"/>
-  <img src="https://i.imgur.com/DdUwpfU.png" href="https://stackoverflow.com/users/11621887/thales-maia">
-  <img src="https://i.imgur.com/Lqgkvwr.png" href="https://www.linkedin.com/in/mbthales/">
+<p align="center">  
+  <a href="https://twitter.com/mbthales_/">
+    <img src="https://i.imgur.com/AJXLlCj.png"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mbthales/">
+    <img src="https://i.imgur.com/Lqgkvwr.png">
+  </a>
+  <a href="https://stackoverflow.com/users/11621887/thales-maia">
+    <img src="https://i.imgur.com/DdUwpfU.png">
+  </a>
 </p>
 
 <p>I'm Computer Science student and a front-end developer focused in performance and acessibility.</p>
